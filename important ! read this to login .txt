@@ -5,3 +5,6 @@ passwd: adminadmin
 compte2
 email : younes@yahoo.fr
 passwd: azerty
+
+the database "cakephp.sql"
+is in the root folder ;
