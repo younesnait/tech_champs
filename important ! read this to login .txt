@@ -1,0 +1,7 @@
+compte1
+email :admin@admin.com	
+passwd: adminadmin
+
+compte2
+email : younes@yahoo.fr
+passwd: azerty
